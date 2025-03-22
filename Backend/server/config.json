@@ -1,0 +1,4 @@
+{
+    "dbUrl": "https://threapyai-default-rtdb.firebaseio.com/",
+    "node": "chats"
+}
