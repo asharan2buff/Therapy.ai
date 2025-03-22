@@ -94,7 +94,7 @@ Looking forward, we are excited to expand and enhance the platform:
 
 Therapy.ai represents a significant step forward in leveraging technology to support mental health, and we remain committed to continuous improvement and expansion to meet the needs of our users.
 
-Demo Video Link : https://buffalo.box.com/s/2hax40myae7tne8o6c7yi24qpgoji5vt
-Devpost Link : https://devpost.com/software/harmoni-ai/edit
+- Demo Video Link : https://buffalo.box.com/s/2hax40myae7tne8o6c7yi24qpgoji5vt
+- Devpost Link : https://devpost.com/software/harmoni-ai/edit
 
 ![Design](https://github.com/user-attachments/assets/63ac7e0c-2157-47eb-8f1f-ed3cef34c300)
